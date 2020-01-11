@@ -40,6 +40,9 @@ Aunque cada sistema operativo dispone de alguna herramienta por defecto:
 Es recomendable descargar el __Git Bash__ para trabajos posteriores con el control de las versiones de su código
 
 
+
+###### En caso de consultas adicionales [aquí][askNumber]
+
 [nodeLink]: https://nodejs.org/es/download/
 [sublimeLink]: https://www.sublimetext.com/
 [vscodeLink]: https://code.visualstudio.com/#alt-downloads
@@ -47,3 +50,4 @@ Es recomendable descargar el __Git Bash__ para trabajos posteriores con el contr
 [bashLink]: https://git-scm.com/downloads
 [notepadLink]: https://notepad-plus-plus.org/downloads/
 [nodeLTS]: ./node.png
+[askNumber]: https://wa.me/51965300377?text=Consulta%del%ambiente%20de%NodeJS
