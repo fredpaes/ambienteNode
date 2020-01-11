@@ -50,4 +50,4 @@ Es recomendable descargar el __Git Bash__ para trabajos posteriores con el contr
 [bashLink]: https://git-scm.com/downloads
 [notepadLink]: https://notepad-plus-plus.org/downloads/
 [nodeLTS]: ./node.png
-[askNumber]: https://wa.me/51965300377?text=Consulta%del%ambiente%20de%NodeJS
+[askNumber]: https://wa.me/51965300377
